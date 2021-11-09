@@ -26,8 +26,8 @@ namespace OtpProject
 
             var message = MessageResource.Create(
                 body: sifre.ToString(),
-                from: new Twilio.Types.PhoneNumber("Twilio'dan telefon numarası yazılacak"),
-                to: new Twilio.Types.PhoneNumber("şifre göndermek istediğiniz mesaj buraya yazılacak")
+                from: new Twilio.Types.PhoneNumber("Twilio'dan aldığınız telefon numarası yazılacak"),
+                to: new Twilio.Types.PhoneNumber("şifre göndermek istediğiniz telefon numarası  yazılacak")
             );
 
             
