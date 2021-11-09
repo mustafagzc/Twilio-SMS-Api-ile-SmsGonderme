@@ -1,0 +1,11 @@
+C:\Users\mustafagozcu\source\repos\OtpProject\OtpProject\bin\Debug\netcoreapp2.1\OtpProject.deps.json
+C:\Users\mustafagozcu\source\repos\OtpProject\OtpProject\bin\Debug\netcoreapp2.1\OtpProject.runtimeconfig.json
+C:\Users\mustafagozcu\source\repos\OtpProject\OtpProject\bin\Debug\netcoreapp2.1\OtpProject.runtimeconfig.dev.json
+C:\Users\mustafagozcu\source\repos\OtpProject\OtpProject\bin\Debug\netcoreapp2.1\OtpProject.dll
+C:\Users\mustafagozcu\source\repos\OtpProject\OtpProject\obj\Debug\netcoreapp2.1\OtpProject.csprojAssemblyReference.cache
+C:\Users\mustafagozcu\source\repos\OtpProject\OtpProject\obj\Debug\netcoreapp2.1\OtpProject.csproj.CoreCompileInputs.cache
+C:\Users\mustafagozcu\source\repos\OtpProject\OtpProject\obj\Debug\netcoreapp2.1\OtpProject.AssemblyInfoInputs.cache
+C:\Users\mustafagozcu\source\repos\OtpProject\OtpProject\obj\Debug\netcoreapp2.1\OtpProject.AssemblyInfo.cs
+C:\Users\mustafagozcu\source\repos\OtpProject\OtpProject\bin\Debug\netcoreapp2.1\OtpProject.pdb
+C:\Users\mustafagozcu\source\repos\OtpProject\OtpProject\obj\Debug\netcoreapp2.1\OtpProject.dll
+C:\Users\mustafagozcu\source\repos\OtpProject\OtpProject\obj\Debug\netcoreapp2.1\OtpProject.pdb
